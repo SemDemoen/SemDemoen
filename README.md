@@ -4,6 +4,6 @@ I'm Sem Demoen, An (almost) graduated bachelor student from HoGent in Applied Co
 
 I like working with tools like Burp Suite, Metasploit, Wireshark and Nmap. The OWASP Top 10 is something I know from practice, not just from class. I'm also used to working with Linux and use Bash for basic automation tasks.
 
-In the second semester of my final year I studied at VSB-TUO in Ostrava through Erasmus. Good for my independence and for seeing how IT education works outside of Belgium.
+In the first semester of my final year I studied at VSB-TUO in Ostrava (Czechia) through Erasmus. Good for my independence and for seeing how IT education works outside of Belgium.
 
 LinkedIn: www.linkedin.com/in/sem-demoen
